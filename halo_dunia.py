@@ -1,3 +1,4 @@
 
 print ('Halo Dunia !')
-print ('belajar AI !')
+print ('Belajar AI !')
+print('Yes !')
